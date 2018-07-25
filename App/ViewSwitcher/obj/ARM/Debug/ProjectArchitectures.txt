@@ -1,0 +1,2 @@
+C:\Users\asrikan\UnityProjects\ViewSwitcher\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;arm
+C:\Users\asrikan\UnityProjects\ViewSwitcher\App\ViewSwitcher\ViewSwitcher.csproj;arm

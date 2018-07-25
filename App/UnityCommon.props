@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>ViewSwitcher</UnityWSASolutionName>
+        <UnityWSASolutionDir>C:\Users\asrikan\UnityProjects\ViewSwitcher\App\</UnityWSASolutionDir>
+        <UnityProjectDir>C:\Users\asrikan\UnityProjects\ViewSwitcher\</UnityProjectDir>
+        <UnityWSAPlayerDir>C:\Program Files\Unity 2017.3\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>
