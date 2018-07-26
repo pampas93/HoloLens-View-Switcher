@@ -44,7 +44,7 @@
         </Button>
         <Button Name="PartlyCloudy" Background="Transparent" Grid.Row="1" Grid.Column="2" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Click="PartlyCloudy_Click">
             <TextBlock Name="PartlyCloudyIcon" TextAlignment="Center">
-                <Run FontSize="40">Wednesday</Run>
+                <Run FontSize="40">Purchase link</Run>
                 <LineBreak/>
                 <Run FontSize="100">⛅️</Run>
                 <LineBreak/>

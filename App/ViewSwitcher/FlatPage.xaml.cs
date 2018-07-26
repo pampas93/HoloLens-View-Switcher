@@ -64,6 +64,9 @@ namespace ViewSwitcher
             catch (Exception ex)
             {
                 UnityEngine.Debug.Log(String.Format("Unable to purchase the feature.Exception: {0}", ex.Message));
+                /* Error message: Exception thrown: 'System.Runtime.InteropServices.COMException' in System.Private.CoreLib.ni.dll
+
+                ex.Message "Error HRESULT E_FAIL has been returned from a call to a COM component." */
             }
 
         }
