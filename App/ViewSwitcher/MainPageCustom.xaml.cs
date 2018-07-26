@@ -50,6 +50,8 @@ namespace ViewSwitcher
             }
         }
 
+        
+
 
         /// <summary>
         /// This method shows how to call a Unity script method from a GameObject in the scene.

@@ -2,7 +2,7 @@
     x:Class="ViewSwitcher.FlatPage"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-    xmlns:local="using:Testing2D3D"
+    xmlns:local="using:ViewSwitcher"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     RequestedTheme="Dark"
@@ -31,7 +31,7 @@
                 <Run FontSize="35">Sunny</Run>
             </TextBlock>
         </Button>
-        <Button x:ConnectionId='3' Name="Cloudy" Background="Transparent" Grid.Row="1" Grid.Column="1" VerticalAlignment="Stretch" HorizontalAlignment="Stretch"                         >
+        <Button x:ConnectionId='3' Name="Cloudy" Background="Transparent" Grid.Row="1" Grid.Column="1" VerticalAlignment="Stretch" HorizontalAlignment="Stretch"                     >
             <TextBlock x:ConnectionId='6' Name="CloudyIcon" TextAlignment="Center">
                 <Run FontSize="40">Tuesday</Run>
                 <LineBreak/>
@@ -42,7 +42,7 @@
                 <Run FontSize="35">Cloudy</Run>
             </TextBlock>
         </Button>
-        <Button x:ConnectionId='4' Name="PartlyCloudy" Background="Transparent" Grid.Row="1" Grid.Column="2" VerticalAlignment="Stretch" HorizontalAlignment="Stretch"                         >
+        <Button x:ConnectionId='4' Name="PartlyCloudy" Background="Transparent" Grid.Row="1" Grid.Column="2" VerticalAlignment="Stretch" HorizontalAlignment="Stretch"                           >
             <TextBlock x:ConnectionId='5' Name="PartlyCloudyIcon" TextAlignment="Center">
                 <Run FontSize="40">Wednesday</Run>
                 <LineBreak/>
